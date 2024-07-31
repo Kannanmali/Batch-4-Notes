@@ -1,0 +1,29 @@
+pr -pull req
+
+git main
+git checkout develop
+git checkout -b "feature/ITT_SFTP"
+
+
+dev test uat prod.
+
+health based project--4env-also using tools names
+
+Branch statergy:
+
+1. main 2. develop 3. feature.  
+
+we mainta main branch code inprod-wehnver I get task i do chnags over feature btranch - raise PR
+to dev branch----- wheneber realse I merger PR from dev to main  branch.
+
+
+
+
+
+
+
+============================================================================================================
+1.mentioned resume like know to setup tomcat and deploy war files into server.
+2.day - day task:In Nexus:
+I have setup nexus and i used to publish the docker images there-and publisgh artifacts
+---------------------------------------------------------------------------------------------------------------------------
